@@ -4,6 +4,8 @@ Hi 👋 My name is Prasad Patil
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [prasadpatil2255@gmail.com](mailto:prasadpatil2255@gmail.com)
 
+
+![](https://komarev.com/ghpvc/?username=prasadpatil05)
 ### Skills
 
 <p align="left">
